@@ -1,2 +1,2 @@
 # SuperMilk
-A literal potion of milk
+Literally super milk
